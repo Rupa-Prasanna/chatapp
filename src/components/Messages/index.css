@@ -1,0 +1,49 @@
+.Messages {
+    margin-top: 20px;
+  }
+  
+  .Messages h2 {
+    margin-bottom: 10px;
+  }
+  
+  .Messages ul li {
+    margin-bottom: 5px;
+  }
+  .message-con{
+    color:red;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+   
+    width:100%;
+    text-align:left;
+  }
+  .Messages {
+    margin-top: 20px;
+  }
+  .sender-name{
+    color:rgb(3, 71, 7);
+    margin:5px;
+    
+  }
+  .li{
+    text-align:left;
+    list-style-type: none;
+    text-align:left;
+    background-color:rgb(167, 150, 150);
+    border:none;
+    margin:5px;
+    padding:10px;
+    border-radius:10px;
+    color:rgba(167, 52, 7, 0.952);
+    
+  }
+  .message-box{
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    align-items:flex-start;
+   
+    width:100%;
+  }

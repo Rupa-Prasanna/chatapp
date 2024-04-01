@@ -1,0 +1,38 @@
+.Login {
+    margin-bottom: 20px;
+    
+  }
+  input[type="text"] {
+    
+    padding: 5px;
+    font-size: 16px;
+    border-radius:15px;
+    border:none;
+    border-style:solid;
+    border-width:2px;
+    margin:10px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius:15px;
+    border:none;
+    
+    background-color:green;
+    color:white;
+    margin:10px;
+  }
+  .login-con{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    background-color:rgb(219, 93, 93);
+    width:100%;
+    padding:20px;
+    background-image:url("https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?w=740&t=st=1711947901~exp=1711948501~hmac=1d9d7a2dd2afe0822519b2a97bdb84132319135ab73dd213a1744b8633ad1ae3");
+    background-size:cover;
+  }
+  

@@ -1,0 +1,20 @@
+
+  
+.MessageInput {
+    margin-top: 20px;
+  }
+  
+  .MessageInput input[type="text"] {
+    width: 300px;
+  }
+  
+  .MessageInput button {
+    margin-left: 10px;
+  }
+  .message-input-con{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
+  
+
